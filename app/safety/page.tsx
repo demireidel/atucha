@@ -1,0 +1,1 @@
+export default function Safety(){return (<main className='mx-auto max-w-3xl p-6'><h1 className='text-3xl font-bold'>Safety & Visitor Rules</h1><ul className='list-disc pl-6 mt-3 text-neutral-300'><li>Controlled tour routes with professional guides</li></ul></main>);}

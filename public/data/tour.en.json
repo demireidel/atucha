@@ -1,0 +1,156 @@
+{
+  "title": "Visit Atucha \u2014 Guided Tour",
+  "steps": [
+    {
+      "id": "ext",
+      "title": "Exterior overview",
+      "from": [
+        18,
+        10,
+        22
+      ],
+      "to": [
+        0,
+        2,
+        0
+      ],
+      "copy": "Atucha II is a vertical heavy-water reactor (PHWR)."
+    },
+    {
+      "id": "containment",
+      "title": "Containment & turbine hall",
+      "from": [
+        -14,
+        8,
+        12
+      ],
+      "to": [
+        -12,
+        2,
+        8
+      ],
+      "copy": "Containment assures layers of protection; the turbine hall converts steam to power."
+    },
+    {
+      "id": "vessel",
+      "title": "Reactor vessel (RPV)",
+      "from": [
+        8,
+        6,
+        6
+      ],
+      "to": [
+        0,
+        1,
+        0
+      ],
+      "cut": true,
+      "copy": "Vertical pressure vessel with on\u2011power refueling."
+    },
+    {
+      "id": "channels",
+      "title": "Channels & fuel",
+      "from": [
+        6,
+        4,
+        2
+      ],
+      "to": [
+        0,
+        0.8,
+        0
+      ],
+      "copy": "\u2248451 channels with natural\u2011UO\u2082 bundles in a hex lattice."
+    },
+    {
+      "id": "moderator",
+      "title": "Moderator & coolant",
+      "from": [
+        5,
+        6,
+        0
+      ],
+      "to": [
+        0,
+        0.5,
+        0
+      ],
+      "copy": "Heavy water moderates and cools; neutron economy enables natural fuel."
+    },
+    {
+      "id": "loops",
+      "title": "Primary loops & steam generators",
+      "from": [
+        6,
+        3,
+        0
+      ],
+      "to": [
+        4.2,
+        1,
+        0
+      ],
+      "copy": "Two loops move heat to steam generators; separate moderator cooling."
+    },
+    {
+      "id": "shutdown",
+      "title": "Control rods & shutdown",
+      "from": [
+        7,
+        5,
+        -2
+      ],
+      "to": [
+        0,
+        1,
+        0
+      ],
+      "copy": "Reactivity control with rapid insertion and redundancy."
+    },
+    {
+      "id": "control",
+      "title": "Control room",
+      "from": [
+        16,
+        4,
+        -2
+      ],
+      "to": [
+        12,
+        1.6,
+        -6
+      ],
+      "copy": "Consoles, mimic panels, and operator workflows; simulator training."
+    },
+    {
+      "id": "safety",
+      "title": "Safety layers",
+      "from": [
+        10,
+        6,
+        4
+      ],
+      "to": [
+        0,
+        2,
+        0
+      ],
+      "copy": "Defense\u2011in\u2011depth: containment, redundancy, procedures."
+    },
+    {
+      "id": "book",
+      "title": "Visit in person",
+      "from": [
+        18,
+        10,
+        22
+      ],
+      "to": [
+        0,
+        2,
+        0
+      ],
+      "copy": "Ready to see it for real? Plan your visit."
+    }
+  ]
+}

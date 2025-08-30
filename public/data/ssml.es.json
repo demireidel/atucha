@@ -1,0 +1,12 @@
+{
+  "ext": "<speak><p><emphasis level='moderate'>Bienvenidos a Atucha II.</emphasis></p><p>Están viendo el reactor argentino de agua pesada, vertical, diseñado para potencia de base confiable.</p></speak>",
+  "containment": "<speak><p>La cúpula es la <emphasis level='reduced'>contención</emphasis>.</p><p>Es una de varias barreras que mantienen la radiactividad dentro. El vapor mueve las turbinas para generar electricidad.</p></speak>",
+  "vessel": "<speak><p>La <emphasis level='moderate'>vasija a presión</emphasis> aloja el núcleo.</p><p>El diseño de Atucha es singular: un PHWR vertical que permite recarga <emphasis level='strong'>en línea</emphasis>.</p></speak>",
+  "channels": "<speak><p>Hay alrededor de <say-as interpret-as='cardinal'>451</say-as> canales a presión en el núcleo.</p><p>Cada uno contiene conjuntos de combustible de uranio natural en retícula hexagonal para optimizar la economía neutrónica.</p></speak>",
+  "moderator": "<speak><p>El volumen translúcido representa agua pesada: modera neutrones y extrae calor.</p><p>El agua pesada permite usar uranio natural manteniendo una reacción estable.</p></speak>",
+  "loops": "<speak><p>El calor se transfiere a los generadores de vapor mediante dos lazos primarios.</p><p>El vapor mueve la turbina, luego se condensa y se recicla: un ciclo cerrado y eficiente.</p></speak>",
+  "shutdown": "<speak><p>Las <emphasis level='moderate'>barras de control</emphasis> modulan la reactividad.</p><p>Para una parada rápida—<say-as interpret-as='characters'>SCRAM</say-as>—las barras se insertan velozmente, aportando reactividad negativa.</p></speak>",
+  "control": "<speak><p>Bienvenidos a la sala de control.</p><p>Los operadores supervisan la planta con consolas y panel de mímica, y se entrenan en un simulador de alcance total para escenarios normales y de emergencia.</p></speak>",
+  "safety": "<speak><p>La seguridad se construye en capas: diseño conservador, materiales de calidad, redundancias, contención y personal entrenado.</p><p>Lo llamamos <emphasis level='reduced'>defensa en profundidad</emphasis>.</p></speak>",
+  "book": "<speak><p>¿Listos para verlo en persona?</p><p>Elegí <emphasis level='moderate'>Planificar tu visita</emphasis> para reservar un recorrido guiado y caminar el circuito real.</p></speak>"
+}

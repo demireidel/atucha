@@ -1,0 +1,1 @@
+export default function Plan(){return (<main className='mx-auto max-w-3xl p-6'><h1 className='text-3xl font-bold'>Plan Your Visit</h1><p className='mt-3 text-neutral-300'>Guided routes, professional staff, and a curated experience.</p></main>);}

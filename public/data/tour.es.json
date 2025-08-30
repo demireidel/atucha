@@ -1,0 +1,156 @@
+{
+  "title": "Visitar Atucha \u2014 Recorrido Guiado",
+  "steps": [
+    {
+      "id": "ext",
+      "title": "Vista exterior",
+      "from": [
+        18,
+        10,
+        22
+      ],
+      "to": [
+        0,
+        2,
+        0
+      ],
+      "copy": "Atucha II es un reactor de agua pesada (PHWR) vertical."
+    },
+    {
+      "id": "containment",
+      "title": "Contenci\u00f3n y sala de turbinas",
+      "from": [
+        -14,
+        8,
+        12
+      ],
+      "to": [
+        -12,
+        2,
+        8
+      ],
+      "copy": "La contenci\u00f3n protege; la sala de turbinas convierte vapor en energ\u00eda."
+    },
+    {
+      "id": "vessel",
+      "title": "Vasija del reactor",
+      "from": [
+        8,
+        6,
+        6
+      ],
+      "to": [
+        0,
+        1,
+        0
+      ],
+      "cut": true,
+      "copy": "Vasija a presi\u00f3n vertical con recarga en l\u00ednea."
+    },
+    {
+      "id": "channels",
+      "title": "Canales y combustible",
+      "from": [
+        6,
+        4,
+        2
+      ],
+      "to": [
+        0,
+        0.8,
+        0
+      ],
+      "copy": "\u2248451 canales con conjuntos de UO\u2082 en ret\u00edcula hexagonal."
+    },
+    {
+      "id": "moderator",
+      "title": "Moderador y refrigerante",
+      "from": [
+        5,
+        6,
+        0
+      ],
+      "to": [
+        0,
+        0.5,
+        0
+      ],
+      "copy": "El agua pesada modera y refrigera; econom\u00eda neutr\u00f3nica permite uranio natural."
+    },
+    {
+      "id": "loops",
+      "title": "Circuitos primarios y generadores de vapor",
+      "from": [
+        6,
+        3,
+        0
+      ],
+      "to": [
+        4.2,
+        1,
+        0
+      ],
+      "copy": "Dos lazos transfieren calor; la refrigeraci\u00f3n del moderador es separada."
+    },
+    {
+      "id": "shutdown",
+      "title": "Barras de control y parada",
+      "from": [
+        7,
+        5,
+        -2
+      ],
+      "to": [
+        0,
+        1,
+        0
+      ],
+      "copy": "Control de reactividad con inserci\u00f3n r\u00e1pida y redundancias."
+    },
+    {
+      "id": "control",
+      "title": "Sala de control",
+      "from": [
+        16,
+        4,
+        -2
+      ],
+      "to": [
+        12,
+        1.6,
+        -6
+      ],
+      "copy": "Consolas, panel de m\u00edmica y flujos de operaci\u00f3n; entrenamiento en simulador."
+    },
+    {
+      "id": "safety",
+      "title": "Capas de seguridad",
+      "from": [
+        10,
+        6,
+        4
+      ],
+      "to": [
+        0,
+        2,
+        0
+      ],
+      "copy": "Defensa en profundidad: contenci\u00f3n, redundancias y procedimientos."
+    },
+    {
+      "id": "book",
+      "title": "Visita presencial",
+      "from": [
+        18,
+        10,
+        22
+      ],
+      "to": [
+        0,
+        2,
+        0
+      ],
+      "copy": "\u00bfListo para verlo de verdad? Planific\u00e1 tu visita."
+    }
+  ]
+}

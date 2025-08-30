@@ -1,0 +1,1 @@
+export default function Learn(){return (<main className='mx-auto max-w-3xl p-6'><h1 className='text-3xl font-bold'>How PHWRs work</h1><p className='mt-3 text-neutral-300'>Heavy water (D2O) enables natural uranium fuel with strong neutron economy.</p></main>);}

@@ -1,0 +1,12 @@
+{
+  "ext": "<speak><p><emphasis level='moderate'>Welcome to Atucha II.</emphasis></p><p>You’re looking at Argentina’s vertical heavy‑water reactor, built for reliable baseload power.</p></speak>",
+  "containment": "<speak><p>This dome is <emphasis level='reduced'>containment</emphasis>.</p><p>It’s one of several layers that keep radioactivity safely inside. Steam from the primary system spins turbines here to make electricity.</p></speak>",
+  "vessel": "<speak><p>The <emphasis level='moderate'>reactor pressure vessel</emphasis> houses the core.</p><p>Atucha’s design is unusual: a vertical PHWR that can refuel <emphasis level='strong'>while online</emphasis>.</p></speak>",
+  "channels": "<speak><p>About <say-as interpret-as='cardinal'>451</say-as> pressure channels run through the core.</p><p>Each holds natural uranium fuel bundles arranged in a hexagonal lattice for efficient neutron economy.</p></speak>",
+  "moderator": "<speak><p>The clear volume you see is heavy water: it both moderates neutrons and removes heat.</p><p>Heavy water lets us use natural uranium while maintaining a stable chain reaction.</p></speak>",
+  "loops": "<speak><p>Heat moves from the core to steam generators via two primary loops.</p><p>Steam drives the turbine, then condenses and is recycled—an efficient, closed cycle.</p></speak>",
+  "shutdown": "<speak><p><emphasis level='moderate'>Control rods</emphasis> shape reactivity.</p><p>For rapid shutdown—called a <say-as interpret-as='characters'>SCRAM</say-as>—rods insert quickly, adding strong negative reactivity.</p></speak>",
+  "control": "<speak><p>Welcome to the control room.</p><p>Operators monitor the plant using consoles and mimic panels, and they train on a full‑scope simulator for normal and emergency scenarios.</p></speak>",
+  "safety": "<speak><p>Safety is built in layers: conservative design, quality materials, redundancy, containment, and trained people.</p><p>It’s called <emphasis level='reduced'>defense in depth</emphasis>.</p></speak>",
+  "book": "<speak><p>Ready to see Atucha in person?</p><p>Select <emphasis level='moderate'>Plan Your Visit</emphasis> to book a guided tour and walk the route for real.</p></speak>"
+}
